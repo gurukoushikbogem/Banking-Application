@@ -1,0 +1,7 @@
+C:\Users\koushik\source\repos\Bank Application\bin\Debug\Bank Application.exe.config
+C:\Users\koushik\source\repos\Bank Application\bin\Debug\Bank Application.exe
+C:\Users\koushik\source\repos\Bank Application\bin\Debug\Bank Application.pdb
+C:\Users\koushik\source\repos\Bank Application\obj\Debug\Bank Application.csproj.AssemblyReference.cache
+C:\Users\koushik\source\repos\Bank Application\obj\Debug\Bank Application.csproj.CoreCompileInputs.cache
+C:\Users\koushik\source\repos\Bank Application\obj\Debug\Bank Application.exe
+C:\Users\koushik\source\repos\Bank Application\obj\Debug\Bank Application.pdb
