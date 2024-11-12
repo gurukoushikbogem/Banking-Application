@@ -1,4 +1,3 @@
-
 # Banking Console Application
 
 A console-based banking application built in C#, providing core functionalities such as user registration, login, account management, and transaction handling. This project is a simple demonstration of handling user inputs, managing data structures, and implementing basic financial transactions.
